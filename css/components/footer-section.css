@@ -1,0 +1,21 @@
+.footer-section {
+background-color: rgb(14,0,0);
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+border-radius: 4px;
+margin: auto;
+text-align: center;
+}
+
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230,230,230);
+}
+
+.list-inline i:hover {
+  color: rgb(150,150,150);
+}
+
+.footer-section h2 {
+  color: white;
+}
